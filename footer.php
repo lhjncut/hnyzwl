@@ -1,0 +1,2 @@
+﻿<div class="footer"><div class="ee"><div class="footer-left"><div class="bot">Copyright ? 2017,河南远征货运有限公司, 
+<a href=""  target="_blank">豫ICP备00000000号</a>&nbsp;All rights reserved &nbsp;<a href=""  style="background-color: rgb(255, 255, 255); text-decoration: underline;"><span style="background-color: rgb(255, 255, 255);">电脑版</span></a><span style="background-color: rgb(255, 255, 255);"> | </span><a href=""><span style="background-color: rgb(255, 255, 255);">手机版</span></a><br/></div></div></div></div>
