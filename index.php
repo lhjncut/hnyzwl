@@ -6,12 +6,12 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>广州南广物流有限公司</title><meta name="keywords" content="广州南广物流有限公司"><meta name="description" content="广州南广物流有限公司"><link href="templates/web/images/css/style.css"  rel="stylesheet" type="text/css" /><script type="text/javascript" src="templates/web/images/js/jquery-1.8.3.min.js" ></script><script src="templates/web/images/js/function.js"  type="text/javascript"></script><script src="templates/web/images/js/jquery.superslide.2.1.js"  type="text/javascript"></script><script type="text/javascript" src="templates/web/images/js/jquery.tools.min.js" ></script><script type="text/javascript" src="templates/web/images/js/main.js" ></script></head>
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>河南省远征货运有限公司</title><meta name="keywords" content="河南省远征货运有限公司"><meta name="description" content="河南省远征货运有限公司"><link href="templates/web/images/css/style.css"  rel="stylesheet" type="text/css" /><script type="text/javascript" src="templates/web/images/js/jquery-1.8.3.min.js" ></script><script src="templates/web/images/js/function.js"  type="text/javascript"></script><script src="templates/web/images/js/jquery.superslide.2.1.js"  type="text/javascript"></script><script type="text/javascript" src="templates/web/images/js/jquery.tools.min.js" ></script><script type="text/javascript" src="templates/web/images/js/main.js" ></script></head>
 <body>
 
 <?php include 'header.php';?>
 
-<div class="banner"><ul class="slides"><li style="background:url(upfiles/201701/03/adadb816bbee4f6da.jpg)/*tpa=http://www.gznanguang.com/upfiles/201701/03/adadb816bbee4f6da.jpg*/ 50% 0 no-repeat; height:580px"></li><li style="background:url(upfiles/201701/03/a81b9d99459a1735e.jpg)/*tpa=http://www.gznanguang.com/upfiles/201701/03/a81b9d99459a1735e.jpg*/ 50% 0 no-repeat; height:580px"></li></ul></div>
+<div class="banner"><ul class="slides"><li style="background:url(upfiles/201701/03/adadb816bbee4f6da.jpg) 50% 0 no-repeat; height:580px"></li><li style="background:url(upfiles/201701/03/1.png) 50% 0 no-repeat; height:580px"></li></ul></div>
 
 <script src="templates/web/images/js/jquery.flexslider-min.js" ></script><script>
     $(function(){
