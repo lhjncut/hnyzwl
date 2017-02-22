@@ -6,7 +6,7 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>河南省远征货运有限公司</title><meta name="keywords" content="河南省远征货运有限公司"><meta name="description" content="河南省远征货运有限公司"><link href="templates/web/images/css/style.css"  rel="stylesheet" type="text/css" /><script type="text/javascript" src="templates/web/images/js/jquery-1.8.3.min.js" ></script><script src="templates/web/images/js/function.js"  type="text/javascript"></script><script src="templates/web/images/js/jquery.superslide.2.1.js"  type="text/javascript"></script><script type="text/javascript" src="templates/web/images/js/jquery.tools.min.js" ></script><script type="text/javascript" src="templates/web/images/js/main.js" ></script></head>
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>河南省远征货运有限公司</title><meta name="keywords" content="河南省远征货运有限公司,远征物流,远征货运,河南远征,郑州远征,远征,货运"><meta name="description" content="河南省远征货运有限公司"><link href="templates/web/images/css/style.css"  rel="stylesheet" type="text/css" /><script type="text/javascript" src="templates/web/images/js/jquery-1.8.3.min.js" ></script><script src="templates/web/images/js/function.js"  type="text/javascript"></script><script src="templates/web/images/js/jquery.superslide.2.1.js"  type="text/javascript"></script><script type="text/javascript" src="templates/web/images/js/jquery.tools.min.js" ></script><script type="text/javascript" src="templates/web/images/js/main.js" ></script></head>
 <body>
 
 <?php include 'header.php';?>
