@@ -11,7 +11,7 @@ var _hmt = _hmt || [];
 
 <?php include 'header.php';?>
 
-<div class="banner"><ul class="slides"><li style="background:url(upfiles/201701/03/adadb816bbee4f6da.jpg) 50% 0 no-repeat; height:580px"></li><li style="background:url(upfiles/201701/03/1.png) 50% 0 no-repeat; height:580px"></li></ul></div>
+<div class="banner"><ul class="slides"><li style="background:url(upfiles/201701/03/adadb816bbee4f6da.jpg) 50% 0 no-repeat; height:580px"></li><li style="background:url(upfiles/201701/03/1.jpg) 50% 0 no-repeat; height:580px"></li></ul></div>
 
 <script src="templates/web/images/js/jquery.flexslider-min.js" ></script><script>
     $(function(){
@@ -28,7 +28,7 @@ var _hmt = _hmt || [];
 	
 	
 	<div class="two"><div class="list"><div class="mytab"><a><img src="templates/web/images/02_03.png"  width="84" height="81"  class="rgb"/></a></div><div class="title1"><span><a href="-c=msg&ts=aboutus.htm" >关于我们</a></span><strong>A</strong>bout 
-    </div><div class="aimg"><img src="templates/web/images/p1.jpg"  width="283" height="200" /></div><div class="anew"><p style="text-indent: 2em; line-height: 1.75em;">河南省远征物流有限公司成立于2008年，是一家经郑州市交通.工商等部门批准注册成立的仓储，货物运输，货物中转综合性物流公司。公司自成立至今，连续多年在交通.物流协会等主管部门评比中获得“重合同，守信誉”企业，“诚信物流企业”等荣誉称号。。</p></div></div></div>
+    </div><div class="aimg"><img src="templates/web/images/p1.jpg"  width="283" height="200" /></div><div class="anew"><p style="text-indent: 2em; line-height: 1.75em;">河南省远征货运有限公司成立于2008年，是一家经郑州市交通.工商等部门批准注册成立的仓储，货物运输，货物中转综合性物流公司。公司自成立至今，连续多年在交通.物流协会等主管部门评比中获得“重合同，守信誉”企业，“诚信物流企业”等荣誉称号。。</p></div></div></div>
 	
 	
 	
